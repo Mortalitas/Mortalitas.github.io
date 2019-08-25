@@ -1,5 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
+    <version>3.0.0.0</version>
+    <url>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/download/3.0/xivlauncherlite-latest.zip</url>
+    <changelog>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/tag/3.0</changelog>
+    <mandatory mode="2">true</mandatory>
+</item>
+<item>
     <version>2.9.0.0</version>
     <url>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/download/2.9/xivlauncherlite-latest.zip</url>
     <changelog>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/tag/2.9</changelog>
