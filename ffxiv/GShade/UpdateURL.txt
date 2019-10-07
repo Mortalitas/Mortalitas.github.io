@@ -1,1 +1,1 @@
-https://github.com/Mortalitas/GShade-Shaders/releases/latest/download/GShade.Latest.Installer.exe
+http://github.com/Mortalitas/GShade-Shaders/releases/latest/download/GShade.Latest.Installer.exe
