@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <item>
-    <version>4.6.0.0</version>
-    <url>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/download/4.6/xivlauncherlite-latest.zip</url>
-    <changelog>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/tag/4.6</changelog>
+    <version>4.6.1.0</version>
+    <url>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/download/4.6.1/xivlauncherlite-latest.zip</url>
+    <changelog>https://github.com/Mortalitas/FFXIVQuickLauncherLite/releases/tag/4.6.1</changelog>
     <mandatory mode="2">true</mandatory>
 </item>
