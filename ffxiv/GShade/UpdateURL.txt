@@ -1,0 +1,1 @@
+http://github.com/Mortalitas/GShade/releases/latest/download/GShade.Latest.Installer.exe
